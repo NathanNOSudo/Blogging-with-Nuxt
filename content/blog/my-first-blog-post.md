@@ -31,6 +31,8 @@ var foo = 'bar';
 function baz(s) {
    return foo + ':' + s;
 }
+
+const msg = 'hola!'
 ```
 
 The end ...
